@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 70ced684-e8e5-5fb7-b82e-d8579a08a92c
+    cluster_name: Elliot Davis's cluster
